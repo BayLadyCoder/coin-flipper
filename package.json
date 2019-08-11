@@ -15,7 +15,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
  "deploy": "gh-pages -d build",
- "homepage": "http://bayladycoder.github.io/react-gh-pages"
+ "homepage": "http://bayladycoder.github.io/coin-flipper"
   },
   "eslintConfig": {
     "extends": "react-app"
