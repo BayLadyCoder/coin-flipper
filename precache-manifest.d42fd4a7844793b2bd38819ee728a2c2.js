@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c6ffdf407d497bd6d8236b26062f846",
+    "revision": "f0c84321c995b5be562a125294b364d9",
     "url": "/coin-flipper/index.html"
   },
   {
